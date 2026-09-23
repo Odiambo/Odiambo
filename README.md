@@ -2,9 +2,9 @@
 
 # Odiambo
 
-**Systems thinking · Practical prototypes · Privacy-aware engineering**
+**Systems thinking · Population Infrastructure · Privacy-aware engineering**
 
-I build useful systems for a cognitively fragile future: resilient workflows, privacy-aware tools, and practical prototypes that turn complexity into clarity.
+We build useful systems for a cognitively fragile future: resilient workflows, privacy-aware tools, and practical prototypes that turn complexity into clarity.
 
 </div>
 
@@ -14,13 +14,15 @@ I build useful systems for a cognitively fragile future: resilient workflows, pr
 
 ## Why this work matters
 
-I explore the space where software, systems design, data, and human trust intersect. The goal is not just technical output — it is to create tools that are useful, understandable, and built with care.
+The idea is to explore the space where software, systems design, data, and human trust intersect. The goal is not just technical output but to create and share tools that are useful, understandable, and built with tomorrow in view. 
+
+Some of our projects are actively used in clients spaces. These projects include population models and data regions, social organizing metric drivers, AI governance, Regressive governance for agents and various privacy modules. 
 
 </div>
 
 ---
 
-## 🧭 Core focus
+## Core focus
 
 - Systems thinking for real-world complexity
 - Privacy-aware engineering and secure-by-default design
@@ -44,8 +46,10 @@ I explore the space where software, systems design, data, and human trust inters
 
 ---
 
-## 🛠️ Technical stack
+## Lang & Infrastructure 
 
+<div align="center">
+  
 Tools and technologies represented across the public work:
 
 **Applications & interfaces**  
@@ -57,6 +61,7 @@ Tools and technologies represented across the public work:
 **Infrastructure & security**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
+</div>
 ---
 
 ## 🌱 Featured work
