@@ -25,8 +25,9 @@ Some of our projects are actively used in clients spaces. These projects include
 ## Core focus
 
 - Systems thinking for real-world complexity
+- Population dynamics 
 - Privacy-aware engineering and secure-by-default design
-- Human-centered prototypes and operational tooling
+- Physical AI interfacing 
 - AI/ML workflows grounded in clarity, control, and discipline
 - Data-rich systems that remain interpretable and trustworthy
 
