@@ -39,7 +39,7 @@ Some of our projects are actively used in clients spaces. These projects include
 
 | Public repositories | Private repositories | Total repositories |
 | :---: | :---: | :---: |
-| **7** | **7** | **14** |
+| **7** | **8** | **15** |
 
 <sub>The public count includes this profile repository. Private repositories are counted here without exposing their names or contents.</sub>
 
